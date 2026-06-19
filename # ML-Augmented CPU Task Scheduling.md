@@ -100,6 +100,6 @@ Optimize cloud task scheduling by:
 
 ---
 
-**Author**: Kalyan-Madhu  
-**Repository**: [ML-Augmented CPU Task Scheduling](https://github.com/Kalyan-Madhu/ML-Augmented-CPU-Task-Scheduling-)  
+**Author**:   anee-coder   
+**Repository**: [CPU-Task-Scheduling](https://github.com/anee-coder/CPU-Task-Scheduling.git)  
 **Last Updated**: June 2026
